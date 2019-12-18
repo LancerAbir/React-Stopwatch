@@ -1,0 +1,9 @@
+.main .icon {
+    opacity: 0;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.main:hover .icon {
+    opacity: 1;
+}
